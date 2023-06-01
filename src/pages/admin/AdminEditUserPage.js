@@ -1,5 +1,6 @@
 import EditUserPageComponent from "./components/EditUserPageComponent";
 import axios from "axios";
+
 const url = "https://product-api-252u.onrender.com"
 const fetchUser = async (userId) => {
     const { data } = await axios.get(`${url}/api/users/${userId}`);

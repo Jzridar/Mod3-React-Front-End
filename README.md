@@ -1,4 +1,7 @@
-# Mod3-MERN-Back-End
+---------------------------------------------------------------
+# Mod3-MERN-Front-End
+---------------------------------------------------------------
+[Project live link](https://product-user-page.onrender.com)
 
 [Backend GIT Link](https://github.com/Jzridar/Mod3-MERN-BackEnd)
 
@@ -6,7 +9,7 @@
 
 [Backend LIVE Link](https://product-api-252u.onrender.com/)
 
-[Frontend LIVE Link](https://coin-ranking-jzridar.onrender.com)
+[Frontend LIVE Link](https://product-user-page.onrender.com)
 
 
 **Introduction:** This is a simple E-Commerce project with basic operations like CRUD.
@@ -21,10 +24,7 @@ For the front end I've used HTML,CSS,Javascript and react. For the backend MERN 
 
 1. Using react-bootstrap for designing/styling
 
-2. Redux using "npm install react-redux @redux.js/toolkit"
-Redux using "npm install @redux.js/toolkit"
-
-3. Axios to make API requests using "npm install axios chart.js" to create charts
+2. Axios to make API requests using "npm install axios"
 
 
 **STEPS:**
