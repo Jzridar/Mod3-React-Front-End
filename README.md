@@ -1,15 +1,18 @@
----------------------------------------------------------------
-# Mod3-MERN-Front-End
----------------------------------------------------------------
-[Project live link](https://product-user-page.onrender.com)
 
-[Backend GIT Link](https://github.com/Jzridar/Mod3-MERN-BackEnd)
+# Mod3-MERN-Front-End
+
+
+[Project LIVE link](https://product-user-page.onrender.com)
 
 [Frontend GIT Link](https://github.com/Jzridar/Mod3-React-Front-End)
 
+[Frontend LIVE Link](https://product-user-page.onrender.com)
+
+[Backend GIT Link](https://github.com/Jzridar/Mod3-MERN-BackEnd)
+
 [Backend LIVE Link](https://product-api-252u.onrender.com/)
 
-[Frontend LIVE Link](https://product-user-page.onrender.com)
+
 
 
 **Introduction:** This is a simple E-Commerce project with basic operations like CRUD.
@@ -66,18 +69,18 @@ I've started creating the routes for adminuser page,adminproducts page,adminedit
 In the footer section Ive added the link to homepage and the cryptocurrencies page for easy navigation
 
 **Index.css,Boot-strap:**
-Main designs are done using Boot-strap components ,Did some basic designing using CSS in the index.css.
+Main designs are done using Boot-strap components ,Did some very basic designing using CSS in the index.css.
 
 
 **Future Enhancements:**
 Sign up and login credentials will be added.Might add the seller login also for 
-each seller to sell their own product 
+each seller to sell their own product,order,order tracking review page will be created.
 
 **SPECIAL THANKS TO:**
-Render,Youtube,Udemy,Google,Stackoverflow,
+Render,Youtube,Udemy,Google,Stackoverflow
 
 
 
 
 
-# Mod3-React-Front-End
+
