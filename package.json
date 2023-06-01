@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "proxy": "https://product-api-252u.onrender.com",
   "version": "0.1.0",
   "private": true,
   "homepage": ".",

@@ -1,13 +1,13 @@
 import EditUserPageComponent from "./components/EditUserPageComponent";
 import axios from "axios";
-
+const url = "https://product-api-252u.onrender.com"
 const fetchUser = async (userId) => {
-    const { data } = await axios.get(`/api/users/${userId}`);
+    const { data } = await axios.get(`${url}/api/users/${userId}`);
     return data;
 }
 
 const updateUserApiRequest = async (userId, name, lastName, email, isAdmin) => {
-    const { data } = await axios.put(`/api/users/${userId}`, { name, lastName, email, isAdmin });
+    const { data } = await axios.put(`${url}/api/users/${userId}`, { name, lastName, email, isAdmin });
     return data;
 }
 
